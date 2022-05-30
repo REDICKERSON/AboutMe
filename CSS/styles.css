@@ -129,7 +129,10 @@ hr {
     position: relative;
     padding-top: 1px;
     padding-bottom: 50px;
-    height: 200px;
+    height: auto;
+    width: 75%;
+    display: inline-block;
+    
     
 }
 
@@ -193,8 +196,8 @@ hr {
 }
 
 .net-img {
-    height: 100px;
-    width: 100px;
+    /* height: 100px;
+    width: 100px; */
 }
 .cogwheel {
     margin: 0 20 0 auto;
